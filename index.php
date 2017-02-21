@@ -13,5 +13,9 @@
     <h5>
       <?php echo "How are you $name?"; ?>
     </h5>
+
+    <p>
+      <?php echo "$age years old." ?>
+    </p>
   </body>
 </html>
